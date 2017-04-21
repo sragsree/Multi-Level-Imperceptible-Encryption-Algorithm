@@ -1,6 +1,6 @@
 # Multi-Level Imperceptible Encryption Algorithm
 
-A MATLAB based project that includes a comparative study of the existig encryption algorithms namely
+A MATLAB based project that includes a comparative study of the existing encryption algorithms namely
 
   - Least Significant Bit coding.
   - Parity coding.
