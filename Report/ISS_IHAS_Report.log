@@ -1,0 +1,2807 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.7.15)  2 APR 2014 12:23
+entering extended mode
+**ISS_IHAS_Report.tex
+(F:\Report\ISS_IHAS_Report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ng
+erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
+lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
+ax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen113
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen114
+\subfiglabelskip=\skip46
+\c@subfigure=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@lotdepth=\count95
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box26
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen115
+\pgf@y=\dimen116
+\pgf@xa=\dimen117
+\pgf@ya=\dimen118
+\pgf@xb=\dimen119
+\pgf@yb=\dimen120
+\pgf@xc=\dimen121
+\pgf@yc=\dimen122
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count96
+\c@pgf@countb=\count97
+\c@pgf@countc=\count98
+\c@pgf@countd=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count100
+\pgfsyssoftpath@bigbuffer@items=\count101
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen123
+\pgfmath@count=\count102
+\pgfmath@box=\box27
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count103
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen124
+\pgf@picmaxx=\dimen125
+\pgf@picminy=\dimen126
+\pgf@picmaxy=\dimen127
+\pgf@pathminx=\dimen128
+\pgf@pathmaxx=\dimen129
+\pgf@pathminy=\dimen130
+\pgf@pathmaxy=\dimen131
+\pgf@xx=\dimen132
+\pgf@xy=\dimen133
+\pgf@yx=\dimen134
+\pgf@yy=\dimen135
+\pgf@zx=\dimen136
+\pgf@zy=\dimen137
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen138
+\pgf@path@lasty=\dimen139
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen140
+\pgf@shorten@start@additional=\dimen141
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count104
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen143
+\pgf@pt@y=\dimen144
+\pgf@pt@temp=\dimen145
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen146
+\pgf@sys@shading@range@num=\count105
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box31
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box32
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen147
+\pgf@nodesepend=\dimen148
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen149
+\pgffor@skip=\dimen150
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count106
+\pgfplotmarksize=\dimen151
+)
+\tikz@lastx=\dimen152
+\tikz@lasty=\dimen153
+\tikz@lastxsaved=\dimen154
+\tikz@lastysaved=\dimen155
+\tikzleveldistance=\dimen156
+\tikzsiblingdistance=\dimen157
+\tikz@figbox=\box33
+\tikz@tempbox=\box34
+\tikztreelevel=\count107
+\tikznumberofchildren=\count108
+\tikznumberofcurrentchild=\count109
+\tikz@fig@count=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count111
+\pgfmatrixcurrentcolumn=\count112
+\pgf@matrix@numberofcolumns=\count113
+)
+\tikz@expandcount=\count114
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+
+! LaTeX Error: Option clash for package graphicx.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage
+                {babel,blindtext}
+The package graphicx has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [demo]
+Adding the global options:
+  ,demo
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+
+! Package babel Error: You haven't specified a language option.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 ...ry to proceed from here, type x to quit.}
+                                                  
+You need to specify a language, either as a global option
+or as an optional argument to the \usepackage command; 
+You shouldn't try to proceed from here, type x to quit.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count115
+\U@D=\dimen158
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count116
+\c@Blindtext=\count117
+\c@blind@countparstart=\count118
+\blind@countxx=\count119
+\blindtext@numBlindtext=\count120
+\blind@countyy=\count121
+\c@blindlist=\count122
+\c@blindlistlevel=\count123
+\c@blindlist@level=\count124
+\blind@listitem=\count125
+\c@blind@listcount=\count126
+\c@blind@levelcount=\count127
+\blind@mathformula=\count128
+\blind@Mathformula=\count129
+\c@blind@randomcount=\count130
+\c@blind@randommax=\count131
+\c@blind@pangramcount=\count132
+\c@blind@pangrammax=\count133
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v2.10 (rcs-revision 1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen159
+)) (F:\Report\ISS_IHAS_Report.aux
+
+! Package babel Error: You haven't loaded the option english yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \select@language{english}
+                             
+You may proceed, but expect unexpected results
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+
+LaTeX Warning: Label `0' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen160
+\scratchbox=\box35
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen161
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks29
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+
+! Package babel Error: You haven't loaded the option english yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \begin{document}
+                     
+You may proceed, but expect unexpected results
+
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 22.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1bch.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 		\\
+         project/btech/ece@nssce/1014/16.22\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<logo.png, id=4, 127.22531pt x 131.74219pt>
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 53.
+(pdftex.def)             Requested size: 101.78038pt x 105.39388pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/Report/logo.png>]
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 69.
+(pdftex.def)             Requested size: 108.14201pt x 111.98137pt.
+
+! Too many }'s.
+l.74 \end{center}}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \vspace
+            {3.0cm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.100 \end{flushright}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[2]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+[3] (F:\Report\ISS_IHAS_Report.toc
+
+! Package babel Error: You haven't loaded the option english yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \select@language {english}
+                              
+You may proceed, but expect unexpected results
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+))
+\tf@toc=\write4
+
+[4
+
+] (F:\Report\ISS_IHAS_Report.lof
+
+! Package babel Error: You haven't loaded the option english yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \select@language {english}
+                              
+You may proceed, but expect unexpected results
+
+)
+\tf@lof=\write5
+ [5
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+<intro_block.jpg, id=29, 473.51906pt x 167.87718pt>
+File: intro_block.jpg Graphic file (type jpg)
+ <use intro_block.jpg>
+Package pdftex.def Info: intro_block.jpg used on input line 132.
+(pdftex.def)             Requested size: 402.49309pt x 142.69627pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ...mbient level). However, there are some �
+                                                  �holes” available. While...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ...bient level). However, there are some “
+                                                  holes” available. While ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ...evel). However, there are some “holes�
+                                                  � available. While the hum...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ...vel). However, there are some “holes”
+                                                   available. While the huma...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+[6
+
+ <F:/Report/intro_block.jpg>]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+[7
+
+]
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 \begin{block}
+                   {\textbf{Steps for Data Embedding}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 172.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 172.
+
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \end{block}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 \begin{block}
+                   {\textbf{Steps for Data Extraction/Retrieval:}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 \end{block}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.200 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+ [][][][]\OT1/cmr/m/n/12 Read Wave file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+ [][][][]\OT1/cmr/m/n/12 Analog to Dig-i-tal Con-ver-sion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+ [][][][]\OT1/cmr/m/n/12 Change Sam-ples to dec-i-mal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+ [][][][]\OT1/cmr/m/n/12 Use MSB to Store Sign 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+ [][][][]\OT1/cmr/m/n/12 Start Steg-nog-ra-phy Pro-ce-dure 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+ [][][][]\OT1/cmr/m/n/12 Accept Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+ [][][][]\OT1/cmr/m/n/12 Form Row Vec-tor of Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 222--222
+ [][][][]\OT1/cmr/m/n/12 Embed Mes-sage Length in First 16 Sam-ples 
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 223--223
+ [][][][]\OT1/cmr/m/n/12 Embed Se-cret Mes-sage from 17th Sam-ple 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+ [][][][]\OT1/cmr/m/n/12 Digital To ana-log Con-ver-sion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+ [][][][]\OT1/cmr/m/n/12 Check The Sign From MSB 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+ [][][][]\OT1/cmr/m/n/12 Save The Sound With Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+ [][][][]\OT1/cmr/m/n/12 Stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 243--244
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 T
+       he decoder in effect performs just the reverse of what the encoder do...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+ [][][][]\OT1/cmr/m/n/12 Read Wave file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+ [][][][]\OT1/cmr/m/n/12 Analog to Dig-i-tal Con-ver-sion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+ [][][][]\OT1/cmr/m/n/12 Change Sam-ples to dec-i-mal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+ [][][][]\OT1/cmr/m/n/12 Check MSB to get the Sign 
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 266--266
+ [][][][]\OT1/cmr/m/n/12 Check First 16 Sam-ples to get Mes-sage Length 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+ [][][][]\OT1/cmr/m/n/12 Begin Ex-trac-tion of Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+ [][][][]\OT1/cmr/m/n/12 Form Row Vec-tor of Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+ [][][][]\OT1/cmr/m/n/12 Change Row Vec-tor to nX8 Ma-trix 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+ [][][][]\OT1/cmr/m/n/12 Check for ASCII val-ues 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+ [][][][]\OT1/cmr/m/n/12 Reconstruct the Mes-sage from ASCII 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+ [][][][]\OT1/cmr/m/n/12 Display Se-cret Mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+ [][][][]\OT1/cmr/m/n/12 Stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 288--289
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+<Sample_LSB.jpg, id=44, 746.03719pt x 417.05812pt>
+File: Sample_LSB.jpg Graphic file (type jpg)
+ <use Sample_LSB.jpg>
+Package pdftex.def Info: Sample_LSB.jpg used on input line 291.
+(pdftex.def)             Requested size: 350.63751pt x 196.01733pt.
+ [10]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.294 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<LSB_resuilt.jpg, id=48, 468.24937pt x 227.34938pt>
+File: LSB_resuilt.jpg Graphic file (type jpg)
+ <use LSB_resuilt.jpg>
+Package pdftex.def Info: LSB_resuilt.jpg used on input line 300.
+(pdftex.def)             Requested size: 374.59999pt x 181.87975pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<LSB_Comp1_MER_graph.jpg, id=52, 526.21594pt x 313.9228pt>
+File: LSB_Comp1_MER_graph.jpg Graphic file (type jpg)
+ <use LSB_Comp1_MER_graph.jpg>
+Package pdftex.def Info: LSB_Comp1_MER_graph.jpg used on input line 323.
+(pdftex.def)             Requested size: 236.79498pt x 141.26395pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<LSB_Comp1_SNR_graph.jpg, id=53, 526.96875pt x 313.9228pt>
+File: LSB_Comp1_SNR_graph.jpg Graphic file (type jpg)
+ <use LSB_Comp1_SNR_graph.jpg>
+Package pdftex.def Info: LSB_Comp1_SNR_graph.jpg used on input line 330.
+(pdftex.def)             Requested size: 237.13374pt x 141.26395pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.333 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12 <F:/Report/Sample_LSB.jpg> <F:/Report/LSB_resuilt.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+[13 <F:/Report/LSB_Comp1_MER_graph.jpg> <F:/Report/LSB_Comp1_SNR_graph.jpg>] [14] [15]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+<Methodologies_parity.jpg, id=67, 493.845pt x 355.3275pt>
+File: Methodologies_parity.jpg Graphic file (type jpg)
+ <use Methodologies_parity.jpg>
+Package pdftex.def Info: Methodologies_parity.jpg used on input line 379.
+(pdftex.def)             Requested size: 370.38283pt x 266.49495pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--386
+
+ []
+
+[16
+
+ <F:/Report/Methodologies_parity.jpg>]
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 \begin{block}
+                   {\textbf{Steps for Data embedding:}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 \end{block}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 \begin{block}
+                   {\textbf{Steps for Data Extraction/Retrieval:}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.423 \end{block}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.424 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 T
+       he parity coder is actually an improved version of LSB coder.The pari...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
+ [][][][]\OT1/cmr/m/n/12 Read the cover file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+ [][][][]\OT1/cmr/m/n/12 Accept the mes-sage to be em-bed-ded 
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 445--445
+ [][][][]\OT1/cmr/m/n/12 Check that mes-sage size less than cover size 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+ [][][][]\OT1/cmr/m/n/12 Convert mes-sage to bi-nary se-quence 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
+ [][][][]\OT1/cmr/m/n/12 Sample cover mes-sage 
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 449--449
+ [][][][]\OT1/cmr/m/n/12 Concatenate sam-ples to get back Stego file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 461--462
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.465 A
+       s in the encoder, the GUI is initialised first.Then the cover signal ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+ [][][][]\OT1/cmr/m/n/12 Read the Stego file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+ [][][][]\OT1/cmr/m/n/12 Sample the stego file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+ [][][][]\OT1/cmr/m/n/12 Create an empty ma-trix 
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 482--482
+ [][][][]\OT1/cmr/m/n/12 Add to it mes-sage val-ues in ac-cor-dance to par-ity val-ues 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+ [][][][]\OT1/cmr/m/n/12 Convert to int value from bin value 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
+ [][][][]\OT1/cmr/m/n/12 Convert bi-nary to dec-i-mal val-ues 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+ [][][][]\OT1/cmr/m/n/12 Reconstruct and dis-play the mes-sage 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 499--500
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+
+ []
+
+[19] <parity_comp1_new2.jpg, id=81, 867.99281pt x 401.24907pt>
+File: parity_comp1_new2.jpg Graphic file (type jpg)
+ <use parity_comp1_new2.jpg>
+Package pdftex.def Info: parity_comp1_new2.jpg used on input line 507.
+(pdftex.def)             Requested size: 390.59315pt x 180.56041pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.510 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+
+ []
+
+[20 <F:/Report/parity_comp1_new2.jpg>] <parity_comp1_MER_graph.jpg, id=85, 581.17125pt x 352.31625pt>
+File: parity_comp1_MER_graph.jpg Graphic file (type jpg)
+
+<use parity_comp1_MER_graph.jpg>
+Package pdftex.def Info: parity_comp1_MER_graph.jpg used on input line 530.
+(pdftex.def)             Requested size: 261.52464pt x 158.54083pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.533 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+
+ []
+
+<parity_Comp1_SNR_graph.jpg, id=86, 613.54219pt x 369.63094pt>
+File: parity_Comp1_SNR_graph.jpg Graphic file (type jpg)
+ <use parity_Comp1_SNR_graph.jpg>
+Package pdftex.def Info: parity_Comp1_SNR_graph.jpg used on input line 537.
+(pdftex.def)             Requested size: 276.09143pt x 166.33237pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.540 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+[21 <F:/Report/parity_comp1_MER_graph.jpg> <F:/Report/parity_Comp1_SNR_graph.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+[22]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
+
+ []
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.586 \begin{block}
+                   {\textbf{Phase coding is explained in the following proce...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<phase.jpg, id=93, 238.64156pt x 61.73062pt>
+File: phase.jpg Graphic file (type jpg)
+ <use phase.jpg>
+Package pdftex.def Info: phase.jpg used on input line 600.
+(pdftex.def)             Requested size: 262.5065pt x 67.90387pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.602 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[23
+
+ <F:/Report/phase.jpg>]
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.606 \end{block}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.607 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--609
+
+ []
+
+<phase1.jpg, id=97, 419.31656pt x 193.47281pt>
+File: phase1.jpg Graphic file (type jpg)
+ <use phase1.jpg>
+Package pdftex.def Info: phase1.jpg used on input line 611.
+(pdftex.def)             Requested size: 461.24962pt x 212.82074pt.
+
+Overfull \hbox (34.45827pt too wide) in paragraph at lines 611--611
+ [][] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.614 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--633
+
+ []
+
+[24 <F:/Report/phase1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 634--641
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.661 S
+       ince Phase coing was done in a GUI, initialisation is required just b...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--674
+ [][][][]\OT1/cmr/m/n/12 Open wave file for hid-ing text 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+ [][][][]\OT1/cmr/m/n/12 41st to 43rd byte length of data sam-ple 
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 676--676
+ [][][][]\OT1/cmr/m/n/12 Copy the 16-bit wave data sam-ple start-ing from 44th byte 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
+ [][][][]\OT1/cmr/m/n/12 Convert it to dou-ble and then to bi-nary 
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 678--678
+ [][][][]\OT1/cmr/m/n/12 Reshape the msg bi-nary to coloumn vec-tor 
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 679--679
+ [][][][]\OT1/cmr/m/n/12 Hide iden-tity in first 8 wave data sam-ple 
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 680--680
+ [][][][]\OT1/cmr/m/n/12 Hide bi-nary length of mes-sage from 9th to 28th Sam-ple 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--682
+ [][][][]\OT1/cmr/m/n/12 open a new wave file in write mode 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
+ [][][][]\OT1/cmr/m/n/12 Copy the header of orig-i-nal wave file 
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 684--684
+ [][][][]\OT1/cmr/m/n/12 Copy the wave data sam-ple with hid-den text in new file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--685
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 700--701
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--701
+
+ []
+
+[25]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.704 D
+       ecoding is relatively simple,the audio file with secret message is re...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 704--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
+ [][][][]\OT1/cmr/m/n/12 Open wave file with hid-den text 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--719
+ [][][][]\OT1/cmr/m/n/12 Read the wave data Sam-ples 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--721
+ [][][][]\OT1/cmr/m/n/12 Convert the length to dec-i-mal 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 722--722
+ [][][][]\OT1/cmr/m/n/12 Extract par-ity in-for-ma-tion from wave data sam-ple 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+ [][][][]\OT1/cmr/m/n/12 Convert it to dec-i-mal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+ [][][][]\OT1/cmr/m/n/12 Convert it to ASCII 
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 725--725
+ [][][][]\OT1/cmr/m/n/12 Display the mes-sage in Com-mand win-dow 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+[26]
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 738--739
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--739
+
+ []
+
+[27] <phase_comp1_unlock.jpg, id=111, 868.74562pt x 387.69844pt>
+File: phase_comp1_unlock.jpg Graphic file (type jpg)
+ <use phase_comp1_unlock.jpg>
+Package pdftex.def Info: phase_comp1_unlock.jpg used on input line 746.
+(pdftex.def)             Requested size: 390.93192pt x 174.46268pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.749 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+
+ []
+
+[28 <F:/Report/phase_comp1_unlock.jpg>] <phase_comp1_MER_graph.jpg, id=115, 577.40718pt x 344.78813pt>
+File: phase_comp1_MER_graph.jpg Graphic file (type jpg)
+
+<use phase_comp1_MER_graph.jpg>
+Package pdftex.def Info: phase_comp1_MER_graph.jpg used on input line 769.
+(pdftex.def)             Requested size: 259.83083pt x 155.15321pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.772 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<phase_Comp1_SNR_graph.jpg, id=116, 578.16pt x 347.79938pt>
+File: phase_Comp1_SNR_graph.jpg Graphic file (type jpg)
+ <use phase_Comp1_SNR_graph.jpg>
+Package pdftex.def Info: phase_Comp1_SNR_graph.jpg used on input line 776.
+(pdftex.def)             Requested size: 260.16959pt x 156.50827pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.779 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[29 <F:/Report/phase_comp1_MER_graph.jpg> <F:/Report/phase_Comp1_SNR_graph.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
+
+ []
+
+[30]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+
+ []
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...ues f0 and f0 + p are interpreted as a �
+                                                  �0” or a “1,” which ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...es f0 and f0 + p are interpreted as a “
+                                                  0” or a “1,” which i...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...f0 and f0 + p are interpreted as a “0�
+                                                  � or a “1,” which is a...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...0 and f0 + p are interpreted as a “0”
+                                                   or a “1,” which is a ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ... + p are interpreted as a “0” or a �
+                                                  �1,” which is a coded bi...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...+ p are interpreted as a “0” or a “
+                                                  1,” which is a coded bin...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...are interpreted as a “0” or a “1,�
+                                                  � which is a coded binary ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 ...re interpreted as a “0” or a “1,”
+                                                   which is a coded binary s...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 828--829
+
+ []
+
+<SpreadS.jpg, id=124, 303.38344pt x 200.24812pt>
+File: SpreadS.jpg Graphic file (type jpg)
+ <use SpreadS.jpg>
+Package pdftex.def Info: SpreadS.jpg used on input line 831.
+(pdftex.def)             Requested size: 239.67029pt x 158.19427pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.834 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.835 \begin{block}
+                   {\textbf{In the decoding stage, the following is assumed::}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[31
+
+]
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.846 \end{block}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.847 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<SSencoder.jpg, id=128, 299.61937pt x 197.98969pt>
+File: SSencoder.jpg Graphic file (type jpg)
+ <use SSencoder.jpg>
+Package pdftex.def Info: SSencoder.jpg used on input line 849.
+(pdftex.def)             Requested size: 299.61864pt x 197.9892pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.852 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--857
+
+ []
+
+[32 <F:/Report/SpreadS.jpg> <F:/Report/SSencoder.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 858--861
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.864 B
+       eing a code with the GUI as we execute the file the GUI itself initia...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--865
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--877
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--878
+ [][][][]\OT1/cmr/m/n/12 Record the sound file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--879
+ [][][][]\OT1/cmr/m/n/12 Convert data into unit8 ar-ray 
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 880--880
+ [][][][]\OT1/cmr/m/n/12 Convert data to bi-nary equiv-a-lents and sam-ple it 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--881
+ [][][][]\OT1/cmr/m/n/12 Save the recorded au-dio file as wave file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 882--882
+ [][][][]\OT1/cmr/m/n/12 Calculate length of sound 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--883
+ [][][][]\OT1/cmr/m/n/12 Get the mes-sage as text file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--884
+ [][][][]\OT1/cmr/m/n/12 Process SVD 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--885
+ [][][][]\OT1/cmr/m/n/12 Change the mes-sage into a vec-tor shape 
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 886--886
+ [][][][]\OT1/cmr/m/n/12 Change from vec-tor to ma-trix size of ma-trix cover 
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 887--887
+ [][][][]\OT1/cmr/m/n/12 Number of bits to re-place should be be-tween 1 and 7 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--888
+ [][][][]\OT1/cmr/m/n/12 Embed the bits 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+ [][][][]\OT1/cmr/m/n/12 Reconstruct the au-dio 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--890
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 906--907
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
+
+ []
+
+[33]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.910 A
+       s in the encoder the GUI is initialised and then the audio with the h...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
+ [][][][]\OT1/cmr/m/n/12 Initialisation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 923--923
+ [][][][]\OT1/cmr/m/n/12 Open file with hid-den text 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+ [][][][]\OT1/cmr/m/n/12 Convert data into unit8 ar-ray 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--925
+ [][][][]\OT1/cmr/m/n/12 Convert data into bi-nary and sam-ple it 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--926
+ [][][][]\OT1/cmr/m/n/12 Calculate length of sound 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--927
+ [][][][]\OT1/cmr/m/n/12 Process re-verse SVD 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--928
+ [][][][]\OT1/cmr/m/n/12 Extract mes-sage as text file 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 929--929
+ [][][][]\OT1/cmr/m/n/12 change vec-tor shape mes-sage to ASCII equiv-a-lents 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--930
+ [][][][]\OT1/cmr/m/n/12 Reconstruct mes-sage to dis-play 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--931
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 943--944
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 943--944
+
+ []
+
+[35] <Untitled.jpg, id=141, 566.86781pt x 440.39531pt>
+File: Untitled.jpg Graphic file (type jpg)
+ <use Untitled.jpg>
+Package pdftex.def Info: Untitled.jpg used on input line 951.
+(pdftex.def)             Requested size: 255.08815pt x 198.17606pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.954 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--972
+
+ []
+
+[36 <F:/Report/Untitled.jpg>]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--981
+
+ []
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.982 \begin{block}
+                   {\textbf{Background study for this code development:}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[37
+
+]
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1028 \end{block}
+                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1029 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1030 \begin{block}
+                    {\textbf{The simplified algorithm for coding is defined ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1049 \end{block}
+                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1050 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1053 R
+        ead the audio file,scale it to a particular range such that it is el...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1054
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1066
+ [][][][]\OT1/cmr/m/n/12 Read the sound file 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1067
+ [][][][]\OT1/cmr/m/n/12 Scaling The sam-ples 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1068--1068
+ [][][][]\OT1/cmr/m/n/12 Converting the sig-nal to 2-D ar-ray 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+ [][][][]\OT1/cmr/m/n/12 load the im-age for hid-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+ [][][][]\OT1/cmr/m/n/12 convert the im-age to 8 bit 
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 1072--1072
+ [][][][]\OT1/cmr/m/n/12 Seperate the 8-bit to a group of two 3 bits and one 2 bit 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
+ [][][][]\OT1/cmr/m/n/12 Converting the cover im-age to 24 bit 
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 1074--1074
+ [][][][]\OT1/cmr/m/n/12 Seperate 24 bit to a group of three 8 bits 
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 1075--1075
+ [][][][]\OT1/cmr/m/n/12 Take DCT to im-age to hide and cover im-age 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+ [][][][]\OT1/cmr/m/n/12 Embed the bits 
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 1077--1077
+ [][][][]\OT1/cmr/m/n/12 Reconstruct the au-dio from scaled cover im-age 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1078
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 1093--1094
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1094
+
+ []
+
+[38]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1098 T
+        he audio with the hidden message is read,rescale the sample and conv...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1099
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+ [][][][]\OT1/cmr/m/n/12 Read the sound file with hid-den im-age 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1112
+ [][][][]\OT1/cmr/m/n/12 Rescale The sam-ples 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
+ [][][][]\OT1/cmr/m/n/12 Converting the sig-nal to 2-D ar-ray 
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 1115--1115
+ [][][][]\OT1/cmr/m/n/12 Perform IDCT on the cover im-age ob-tained from au-dio 
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 1117--1117
+ [][][][]\OT1/cmr/m/n/12 Combine two 3 bits and one 2 bit from chan-nel 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1118
+ [][][][]\OT1/cmr/m/n/12 Upscale the 8-bit im-age to 24-bits 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1119
+ [][][][]\OT1/cmr/m/n/12 Reconstruct the im-age 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
+ [][][][]\OT1/cmr/m/n/12 stop 
+ []
+
+
+Overfull \hbox (10.31158pt too wide) in paragraph at lines 1132--1133
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
+
+ []
+
+[40] <phase_comp1_button_2.jpg, id=158, 871.00406pt x 389.20406pt>
+File: phase_comp1_button_2.jpg Graphic file (type jpg)
+ <use phase_comp1_button_2.jpg>
+Package pdftex.def Info: phase_comp1_button_2.jpg used on input line 1140.
+(pdftex.def)             Requested size: 391.94821pt x 175.1402pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1143 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (55.05994pt too wide) in paragraph at lines 1148--1155
+[][] 
+ []
+
+[41 <F:/Report/phase_comp1_button_2.jpg>]
+Chapter 7.
+File: LSB_resuilt.jpg Graphic file (type jpg)
+<use LSB_resuilt.jpg>
+Package pdftex.def Info: LSB_resuilt.jpg used on input line 1164.
+(pdftex.def)             Requested size: 304.35847pt x 147.77533pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1167 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: parity_comp1_new2.jpg Graphic file (type jpg)
+<use parity_comp1_new2.jpg>
+Package pdftex.def Info: parity_comp1_new2.jpg used on input line 1169.
+(pdftex.def)             Requested size: 390.59315pt x 180.56041pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1172 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: phase_comp1_unlock.jpg Graphic file (type jpg)
+<use phase_comp1_unlock.jpg>
+Package pdftex.def Info: phase_comp1_unlock.jpg used on input line 1174.
+(pdftex.def)             Requested size: 390.93192pt x 174.46268pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1177 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: Untitled.jpg Graphic file (type jpg)
+<use Untitled.jpg>
+Package pdftex.def Info: Untitled.jpg used on input line 1179.
+(pdftex.def)             Requested size: 255.08815pt x 198.17606pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1182 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: phase_comp1_button_2.jpg Graphic file (type jpg)
+<use phase_comp1_button_2.jpg>
+Package pdftex.def Info: phase_comp1_button_2.jpg used on input line 1184.
+(pdftex.def)             Requested size: 391.94821pt x 175.1402pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1187 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (29.9097pt too wide) in paragraph at lines 1190--1199
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1201 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1202--1204
+
+ []
+
+[42
+
+]
+
+LaTeX Warning: Text page 43 contains only floats.
+
+[43] <Cross_comp_graph.jpg, id=169, 363.60844pt x 217.5628pt>
+File: Cross_comp_graph.jpg Graphic file (type jpg)
+ <use Cross_comp_graph.jpg>
+Package pdftex.def Info: Cross_comp_graph.jpg used on input line 1206.
+(pdftex.def)             Requested size: 309.06862pt x 184.92924pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1209 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[44 <F:/Report/Cross_comp_graph.jpg>] [45]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1216
+
+ []
+
+[46
+
+]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1228 ... of Distinct Steganographic Methods - Ü
+                                                  nal TATAR, Department of I...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Misplaced alignment tab character &.
+l.1229 ...yopadhyay - Institute of Radio physics &
+                                                   Electronics.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 1229--1230
+[]\OT1/cmr/m/n/12 Steganography and Ste-ganal-y-sis: Dif-fer-ent Ap-proaches -
+ []
+
+[47
+
+] (F:\Report\ISS_IHAS_Report.aux
+
+! Package babel Error: You haven't loaded the option english yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \select@language{english}
+                             
+You may proceed, but expect unexpected results
+
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11665 strings out of 494045
+ 222568 string characters out of 3148381
+ 296002 words of memory out of 3000000
+ 14695 multiletter control sequences out of 15000+200000
+ 13705 words of font info for 44 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 56i,9n,55p,1296b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter
+/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb>
+Output written on ISS_IHAS_Report.pdf (48 pages, 1235564 bytes).
+PDF statistics:
+ 205 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+

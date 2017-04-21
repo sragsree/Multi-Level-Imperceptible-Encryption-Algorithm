@@ -1,1 +1,31 @@
-
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramatic representation of procedure for using XOR with LSB's}}{12}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces LSB Coding result}}{12}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MER plot}}{13}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces SNR plot}}{13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Parity Coding Procedure}}{16}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Parity Coding result}}{20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces MER plot}}{21}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces SNR plot}}{21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The signals before and after Phase coding procedure.}}{24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Phase Coding result}}{28}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces MER plot}}{29}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces SNR plot}}{29}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Spread spectrum information encoded by the direct sequence method .}}{32}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Spread spectrum information encoded by the direct sequence method.}}{32}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Spread Spectrum Coding result}}{36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces MIDH Coding result}}{41}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces LSB Coding result}}{42}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Parity Coding result}}{42}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Phase Coding result}}{43}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Spread Spectrum Coding result}}{43}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces MIDH Coding result}}{43}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Cross Comparison Plot}}{44}
+\addvspace {10\p@ }

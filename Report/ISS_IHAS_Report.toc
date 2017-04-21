@@ -1,0 +1,30 @@
+\select@language {english}
+\contentsline {subsubsection}{\vspace {0.25cm}Certified that project work titled INFORMATION HIDING IN AUDIO SIGNALS is a bonafied work carried out in eighth semester by Rahul R\vspace {0.25cm} Nair, Sreerag S, Vishnu K and Vishnu S Dev during the academic year\vspace {0.25cm} of 2013-2014 under the guidance Dr.Sindhu.R,Head of the department\vspace {0.25cm} as part of the partial fulfillment for the award of Bachelor of Technology in\vspace {0.25cm} ELECTRONICS AND COMMUNICATION ENGINEERING from\vspace {0.25cm} University of Calicut and no part of this work has been submitted earlier for\vspace {0.25cm} the award of any degree.}{1}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{6}
+\contentsline {chapter}{\numberline {2}LSB CODING}{7}
+\contentsline {section}{\numberline {2.1}Encoder Implementation}{8}
+\contentsline {section}{\numberline {2.2}Decoder Implementation}{10}
+\contentsline {section}{\numberline {2.3}Simulation Result}{11}
+\contentsline {section}{\numberline {2.4}Performance}{12}
+\contentsline {chapter}{\numberline {3}PARITY CODING}{16}
+\contentsline {section}{\numberline {3.1}Encoder Implementation}{18}
+\contentsline {section}{\numberline {3.2}Decoder Implementation}{18}
+\contentsline {section}{\numberline {3.3}Simulation Result}{19}
+\contentsline {section}{\numberline {3.4}Performance}{20}
+\contentsline {chapter}{\numberline {4}PHASE CODING}{23}
+\contentsline {section}{\numberline {4.1}Encoder Implementation}{25}
+\contentsline {section}{\numberline {4.2}Decoder Implementation}{26}
+\contentsline {section}{\numberline {4.3}Simulation Result}{27}
+\contentsline {section}{\numberline {4.4}Performance}{28}
+\contentsline {chapter}{\numberline {5}SPREAD SPECTRUM CODING}{31}
+\contentsline {section}{\numberline {5.1}Encoder Implementation}{33}
+\contentsline {section}{\numberline {5.2}Decoder Implementation}{34}
+\contentsline {section}{\numberline {5.3}Simulation Result}{35}
+\contentsline {section}{\numberline {5.4}Performance}{36}
+\contentsline {chapter}{\numberline {6}MULTILEVEL IMPERCEPTIBLE DATA HIDING}{37}
+\contentsline {section}{\numberline {6.1}Encoder Implementation}{38}
+\contentsline {section}{\numberline {6.2}Decoder implementation}{39}
+\contentsline {section}{\numberline {6.3}Simulation Result}{40}
+\contentsline {section}{\numberline {6.4}Performance}{41}
+\contentsline {chapter}{\numberline {7}RESULTS AND CROSS COMPARISON}{42}
+\contentsline {chapter}{\numberline {8}CONCLUSION AND FUTURE SCOPE}{46}
